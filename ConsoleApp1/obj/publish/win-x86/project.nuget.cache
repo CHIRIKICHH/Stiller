@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8drjzJM/ghq1vS8zf96DobzOPZayg/66ZDErvudAxhkIFj6/L73Qjvtst4VZnjLay3e2aG5N94aNB818yNGQTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PenCr\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PenCr\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.12\\microsoft.netcore.app.runtime.win-x86.5.0.12.nupkg.sha512",
+    "C:\\Users\\PenCr\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.12\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.12.nupkg.sha512",
+    "C:\\Users\\PenCr\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.12\\microsoft.aspnetcore.app.runtime.win-x86.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

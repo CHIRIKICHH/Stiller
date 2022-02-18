@@ -1,0 +1,6 @@
+C:\Users\PenCr\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\net5.0\publish\ConsoleApp1.pdb
+C:\Users\PenCr\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\net5.0\publish\clrcompression.dll
+C:\Users\PenCr\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\net5.0\publish\clrjit.dll
+C:\Users\PenCr\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\net5.0\publish\coreclr.dll
+C:\Users\PenCr\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\net5.0\publish\mscordaccore.dll
+C:\Users\PenCr\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\net5.0\publish\ConsoleApp1.exe
