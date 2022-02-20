@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,28 +9,30 @@ namespace ConsoleApp1.Browsers
 {
     class GoogleChrome : IBrowser
     {
-        private string name;
-        private string path;
+        private readonly string name = "GoogleChrome";
+        private string path = String.Empty;
+        private string cookieFilePath = String.Empty;
+        private string loginsFilePath = String.Empty;
 
-        public override string BrowserName { get { return name;} }
-        public override string BrowserPath { get { return path;} }
+        public string Name { get { return name; } }
 
-        public override string GetAutoFills()
+        public string GetAutoFills()
         {
             throw new NotImplementedException();
         }
 
-        public override string GetCookies()
+        //return json format cookies
+        public string GetCookies()
         {
             throw new NotImplementedException();
         }
 
-        public override string GetCreditCards()
+        public string GetCreditCards()
         {
             throw new NotImplementedException();
         }
 
-        public override string GetPassword()
+        public string GetPassword()
         {
             throw new NotImplementedException();
         }

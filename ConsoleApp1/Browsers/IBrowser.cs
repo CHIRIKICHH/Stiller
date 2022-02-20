@@ -8,15 +8,11 @@ namespace ConsoleApp1.Browsers
 {
     interface IBrowser
     {
-        public abstract string GetCookies();
-        public abstract string GetPassword();
-        public abstract string GetAutoFills();
-        public abstract string GetCreditCards();
+        public string Name { get;}
 
-        public abstract string BrowserName {get;}
-        public abstract string BrowserPath {get;}
-        public abstract string CookiesPath {get;}
-
-         
+        public string GetCookies();
+        public string GetPassword();
+        public string GetAutoFills();
+        public string GetCreditCards();
     }
 }

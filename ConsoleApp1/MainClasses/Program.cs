@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1.MainClasses
 {
-    class InstallSoftware
+    class Program
     {
+        private string name;
+        private string path;
+        private string version;
+        private string publisher;
     }
 }

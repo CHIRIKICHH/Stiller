@@ -8,6 +8,8 @@ namespace ConsoleApp1.Browsers
 {
     class Opera : IBrowser
     {
+        public string Name => throw new NotImplementedException();
+
         public string GetAutoFills()
         {
             throw new NotImplementedException();
